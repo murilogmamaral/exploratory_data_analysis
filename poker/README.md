@@ -1,4 +1,4 @@
 # Poker
-Analysing my online poker games (Texas Hold'em)
+Analysing my online poker games (Spin & Go)
 
 ![](dashboard.png)
